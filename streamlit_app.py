@@ -1,1 +1,2 @@
-created the main py file
+import streamlit
+streamlit.title('Hello')
